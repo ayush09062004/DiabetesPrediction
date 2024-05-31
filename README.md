@@ -11,6 +11,5 @@ Several constraints were placed on the selection of these instances from a large
 7. DiabetesPedigreeFunction: Diabetes pedigree function
 8. Age: Age (years)
 9. Outcome: Class variable (0 or 1)
-[Exact Information available on Kaggle]
 
 We are applying 5 Machine Learning algorithms:- Linear Regression, Support Vector Machine(SVM), K-nearest neighbours (KNN),Decision Tree, Random Forest Classifier And Gradient Booster. I found the Decision Tree as the most accurate that is why will be using it to train final dataset and for deployment purposes.
